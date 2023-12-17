@@ -11,7 +11,6 @@ This project focuses on predicting loan approval status based on various feature
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 - [Conclusion](#conclusion)
--
 
 ## Data Collection
 
