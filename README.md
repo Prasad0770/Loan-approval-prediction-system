@@ -8,8 +8,7 @@ This project focuses on predicting loan approval status based on various feature
 - [Dataset](#dataset)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Machine Learning Models](#machine-learning-models)
-- [Results](#results)
+- [Machine Learning Models and Results](#machine-learning-models-and-results)
 - [Conclusion](#conclusion)
 
 ## Data Collection
@@ -33,7 +32,7 @@ EDA was performed to understand the distribution of key features:
 - **Loan Amount:** Explored the distribution of loan amounts.
 - **Credit History:** Investigated the distribution of credit history.
 
-## Machine Learning Models Results
+## Machine Learning Models and Results
 - Trained a Decision Tree Classifier, K-Nearest Neighbors (KNN), Naive Bayes, and Random Forest.
 - **Decision Tree Classifier Accuracy**: 73.983%
   **K-Nearest Neighbors (KNN) Accuracy**: 79.674%
